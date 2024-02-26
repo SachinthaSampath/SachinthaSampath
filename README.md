@@ -6,8 +6,8 @@
 ## About Me
 
 - 💼 FullStack Developer / Lecturer / Student
-- 🔭 Currently working at [`WireApps`](https://www.wireapps.co.uk/){:target="_blank"}
-- 🎓 Graduated in [`Information Technology`](https://www.bit.lk/index.php/about-bit){:target="_blank"} and following [`MSc in IT-EAD`](https://www.sliit.lk/graduate-studies-research/programms/msc-programmes/msc-enterprise-applications-development-degree/){:target="_blank"}
+- 🔭 Currently working at [`WireApps`](https://www.wireapps.co.uk/) 
+- 🎓 Graduated in [`Information Technology`](https://www.bit.lk/index.php/about-bit) and following [`MSc in IT-EAD`](https://www.sliit.lk/graduate-studies-research/programms/msc-programmes/msc-enterprise-applications-development-degree/) 
 - 🌱 I’m currently learning `NestJS`, and `DevOps`
 - 💻 Passionate about new `AI` tools and technologies
 - 💬 Ask me about `PHP`,`MySQL`,`Java`,`ReactJS`, `NextJS`, or `NestJS`
